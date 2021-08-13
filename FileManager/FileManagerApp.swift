@@ -11,7 +11,14 @@ import SwiftUI
 struct FileManagerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView{
+                WelcomeView()
+                    .navigationBarHidden(true)
+                    .onAppear(perform: {
+                        Theme.navigationBarColors(background: nil)
+                    })
+            }
+            .navigationViewStyle(StackNavigationViewStyle())
         }
     }
 }
