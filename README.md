@@ -11,7 +11,7 @@ An interactive UI/UX design for a file manager application
       <img src="https://user-images.githubusercontent.com/3058101/129283326-2dccfc87-7a93-4cb1-bfb7-8d8202f77239.png" width="100">
   </div>
   <div>
-    <H3># iPhone</H3>
+    <H3>iPhone</H3>
       <img src="https://user-images.githubusercontent.com/3058101/129283330-0f5ab639-8090-4f08-9a46-a069c3a5eb03.png" width="100">
       <img src="https://user-images.githubusercontent.com/3058101/129283335-3bdbab95-c2f9-417b-88e3-7ea1657cb89d.png" width="100">
 
