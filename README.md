@@ -4,7 +4,7 @@
 An interactive UI/UX design for a file manager application
 
 <div width="50">
-<h3>This application mimics a file system as you click through folders. Clicking on a fiel sends you to the file detais view with some basic information. </h3>
+<p>This application mimics a file system as you click through folders. Clicking on a fiel sends you to the file detais view with some basic information. </p>
   <div>
     <H3>iPad</H3>
       <img src="https://user-images.githubusercontent.com/3058101/129283285-a39fc968-6919-46fa-93d3-d3e804ac549a.png" width="100">
